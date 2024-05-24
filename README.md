@@ -15,12 +15,22 @@ To provide a simple and effective note management website application.
 <hr>
 
 <h1>Future Work</h1>
--Add More Authentication Options
--Flash Messages
--Code Improvement Overall
--Create API to be used on Front End
--Add More UI Interactivity
 
+<ol>
+  <li>Add More Authentication Options
+</li>
+  <li>
+Flash Messages</li>
+  <li>
+Code Improvement Overall
+    </li>
+  <li>
+Create API to be used on Front End
+    </li>
+  <li>
+Add More UI Interactivity
+    </li>
+</ol>
 
 <hr>
 
@@ -52,6 +62,11 @@ https://www.youtube.com/watch?v=BDo1lgaZuII&t=372s
 <hr>
 
 <h1>Team members</h1>
-
--Mohammed alyousef
--Baker alrayes
+<ul>
+  <li>
+Mohammed alyousef
+  </li>
+  <li>
+Baker alrayes
+  </li>
+</ul>
